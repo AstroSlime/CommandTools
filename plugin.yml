@@ -1,0 +1,13 @@
+name: CommandTools
+main: com.astronstudios.commandtools.CommandTools
+version: 1.2.1
+author: AstroSlime
+prefix: CTools
+
+commands:
+   commandtools:
+      description: 'The base command for CommandTools.'
+      aliases: [ctools, ct]
+      permission: commandtools.use
+      permission-message: '§e[CommandTools] §cYou do not have permission to run this command!'
+      usage: "§e[CommandTools] \u00A7cSyntax error! Try doing '/commandtools help'."

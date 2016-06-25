@@ -1,0 +1,3 @@
+*.xml
+CommandTools.iml
+*out/production/CommandTools/com/astronstudios/commandtools/
